@@ -1,5 +1,5 @@
 tmp
-build
+build/
 *build
 *.lock
 build.log
