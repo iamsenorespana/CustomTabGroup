@@ -1,7 +1,0 @@
-(function(){
-
-	App.ui.ipad = {};
-	
-	
-
-})();
