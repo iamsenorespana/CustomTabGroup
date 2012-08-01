@@ -1,0 +1,32 @@
+Logfile initialized
+[INFO] logfile = /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/build.log
+[DEBUG] /Users/hbcumobile/Library/Application Support/Titanium/mobilesdk/osx/2.1.0.GA/android/builder.py simulator CustomTabGroup /Users/hbcumobile/Documents/Titanium_Android_SDK /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup com.jamilspain.tabgroup 5 HVGA 
+[INFO] Building CustomTabGroup for Android ... one moment
+[INFO] Titanium SDK version: 2.1.0 (06/28/12 12:16 6e3cab6)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.016432 seconds on emulator to get ready
+[DEBUG] com.jamilspain.tabgroup installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/ApplicationWindow.js => /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/build/android/bin/assets/Resources/ApplicationWindow.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found special platform files dir = /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/platform/android
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/hbcumobile/Documents/Titanium_Studio_Workspace/CustomTabGroup/Resources/android/images/res-notlong-port-mdpi/default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... CustomTabGroup
+[INFO] Launching application ... CustomTabGroup
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.jamilspain.tabgroup/.CustomtabgroupActivity }
+
